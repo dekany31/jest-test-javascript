@@ -1,0 +1,26 @@
+{
+  "name": "jest-the-beginning-new",
+  "version": "1.0.0",
+  "description": "Testing is an important part of software development.\r It takes time to write tests but it speeds up the long term development.",
+  "main": "index.js",
+  "jest": {
+    "collectCoverage": true,
+    "verbose": true
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekany31/jest-the-beginning-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dekany31/jest-the-beginning-new/issues"
+  },
+  "homepage": "https://github.com/dekany31/jest-the-beginning-new#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
